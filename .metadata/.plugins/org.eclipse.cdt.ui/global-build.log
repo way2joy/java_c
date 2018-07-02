@@ -1,0 +1,49 @@
+10:02:21 **** Rebuild of configuration Debug for project infogisa_001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o exam_001.o "..\\exam_001.c" 
+..\exam_001.c:4:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+gcc -o infogisa_001.exe exam_001.o 
+Info: Nothing to build for infogisa_001
+Info: Nothing to build for infogisa_001
+10:04:40 **** Incremental Build of configuration Debug for project infogisa_001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o exam_001.o "..\\exam_001.c" 
+..\exam_001.c:4:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+gcc -o infogisa_001.exe exam_001.o 
+Info: Nothing to build for infogisa_001
+10:05:22 **** Incremental Build of configuration Debug for project infogisa_001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o exam_001.o "..\\exam_001.c" 
+..\exam_001.c:4:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+gcc -o infogisa_001.exe exam_001.o 
+Info: Nothing to build for infogisa_001
+10:05:44 **** Incremental Build of configuration Debug for project infogisa_001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o exam_001.o "..\\exam_001.c" 
+..\exam_001.c:4:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+gcc -o infogisa_001.exe exam_001.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file infogisa_001.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:06:09 **** Incremental Build of configuration Debug for project infogisa_001 ****
+Info: Internal Builder is used for build
+gcc -o infogisa_001.exe exam_001.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file infogisa_001.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:09:09 **** Rebuild of configuration Debug for project gisa_c_001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\gisa_c_001.o" "..\\src\\gisa_c_001.c" 
+..\src\gisa_c_001.c:3:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+gcc -o gisa_c_001.exe "src\\gisa_c_001.o" 
+Info: Nothing to build for gisa_c_001
+Info: Nothing to build for gisa_c_001
+Info: Nothing to build for gisa_c_001

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gisa_c_001/src/gisa_c_001&apos; to &apos;gisa_c_001.c&apos;" description="Rename resource &apos;gisa_c_001&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/gisa_c_001" name="gisa_c_001.c" stamp="1530493725011" updateReferences="true"/>
+</session>
